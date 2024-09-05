@@ -1,3 +1,8 @@
-# making some small changes
-Hi i am DevOps engineer now say congratulations to me!!
-Hi good morning! have a great day
+GIT COMMANDS:-
+git init: Initializes a new Git repository.
+git add <file>: Adds the specified file to the staging area.
+git branch: Displays all branches.
+git branch feature: Creates a new branch named feature.
+git remote: Displays remote repositories.
+git remote add origin <url>: Links your local repository to the remote repository.
+git pull origin main: Pulls changes from the main branch of the remote repository origin and merges them into your current branch.
